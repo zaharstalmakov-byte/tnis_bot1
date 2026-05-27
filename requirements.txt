@@ -1,2 +1,1 @@
-pip install python-telegram-bot
-pip install --upgrade pip
+python-telegram-bot==22.1
